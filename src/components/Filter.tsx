@@ -1,4 +1,4 @@
-import { VStack, Button, Text, useTheme, IButtonProps } from 'native-base';
+import { VStack, Button, Text, useTheme, IButtonProps, Box } from 'native-base';
 
 
 type Props = IButtonProps & {
